@@ -3,7 +3,7 @@
 This project explores the use of various machine learning and statistical methods to forecast the Gross Domestic Product (GDP) of Albania 
 using time series data collected from Eurostat. Our goal was to compare the performance of different models and evaluate their suitability for economic forecasting.
 
-## 🔍 Overview
+Overview
 
 The project is structured around the implementation and comparison of the following models:
 
@@ -14,7 +14,7 @@ The project is structured around the implementation and comparison of the follow
 Each model was trained on cleaned, seasonally adjusted macroeconomic indicators, with GDP as the main target variable. 
 The performance of the models was compared using RMSE (Root Mean Squared Error) and visualized through plots and residual analysis.
 
-## 🧠 Techniques Used
+Techniques Used
 
 - **Time Series Decomposition and Stationarity Checks**
 - **ACF/PACF Plots and Lag Selection**
@@ -25,7 +25,7 @@ The performance of the models was compared using RMSE (Root Mean Squared Error) 
 
 > Note: Full implementation code may not be included due to this being a collaborative academic project.
 
-## 👥 Team Credits
+Team Credits
 
 This project was developed as part of a university group assignment. All members contributed to research, data analysis, modelling, and report writing.
 
@@ -35,7 +35,7 @@ This project was developed as part of a university group assignment. All members
 - Laura Dule
 - Ema Elezi
 
-## 📈 Sample Visuals
+Sample Visuals
 
 The project includes visualizations of:
 - Time series trends and decomposition
@@ -43,7 +43,7 @@ The project includes visualizations of:
 - Actual vs. forecasted GDP plots
 - Residual diagnostics and error analysis
 
-## 📌 Acknowledgements
+Acknowledgements
 
 - **Eurostat** – for publicly available economic data
 - Course professors and mentors for guidance and feedback
